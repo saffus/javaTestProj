@@ -7,6 +7,7 @@ import java.util.List;
 public class newtest {
 
 	public static void main(String[] args) {
+		String newFeatureadded;
 		
 		//System.setProperty("name", "saffan");
 		

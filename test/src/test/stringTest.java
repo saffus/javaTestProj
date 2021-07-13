@@ -5,6 +5,7 @@ public class stringTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		String newFeature ;
 		String s ="bhjjjj";
 		char[] d = new char[] {'a','b'};
 		//s.getChars(0, 3, d, 1);
