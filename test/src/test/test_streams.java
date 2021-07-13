@@ -10,7 +10,7 @@ public class test_streams {
 	public static void main(String[] args)
 	
 	{
-
+		String gitHubChabge;
 		// TODO Auto-generated method stub
 		
 		techno t = new techno("1","java",1);
