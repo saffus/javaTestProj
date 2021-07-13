@@ -14,6 +14,7 @@ public class StringTestingSearch {
 		result = result + sub;
 		result = result+s.substring(k+search.length());
 		System.out.println(result);
+		int i =10;
 
 	}
 
